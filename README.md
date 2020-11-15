@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Github Stats osmandi](https://github-readme-stats.vercel.app/api?username=osmandi&count_private=true&hide=stars,issues&show_icons=true&show_owner=true)
+
+- 🔭 I’m currently working on Platzi
+- 🌱 I’m currently learning Apache Airflow, Kubernetes and Golang.
+
 <!--
 **osmandi/osmandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
